@@ -2,4 +2,4 @@
 
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk
-[Başlıklı Bağlantı](https://www.kodluyoruz.org/ "Kodluyoruz")
+[Kodluyoruz](https://www.kodluyoruz.org/)
