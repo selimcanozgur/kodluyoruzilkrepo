@@ -1,2 +1,4 @@
-# kodluyoruzilkrepo
-Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
+# Kodluyoruz Ilk Repo
+
+
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk
